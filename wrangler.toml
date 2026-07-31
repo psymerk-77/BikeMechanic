@@ -1,0 +1,9 @@
+name = "bike-mechanic"
+compatibility_date = "2026-07-23"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bike-mechanic-db"
+database_id = "INSERISCI_QUI_IL_DATABASE_ID_D1"
+migrations_dir = "migrations"
